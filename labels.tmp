@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>Z:\Laba3 (KA)</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Laba3 (KA)\Laba3_variant7.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Laba3 (KA)\Laba3_variant7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Z:\Laba3 (KA)\Laba3_variant7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Z:\Laba3 (KA)\Laba3_variant7.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>Z:\Laba3 (KA)\Laba3_variant7.asm</FILE><LINE>17</LINE></reset>
+  <m1><FILE>Z:\Laba3 (KA)\Laba3_variant7.asm</FILE><LINE>43</LINE></m1>
+  <m2><FILE>Z:\Laba3 (KA)\Laba3_variant7.asm</FILE><LINE>49</LINE></m2>
+  <exit><FILE>Z:\Laba3 (KA)\Laba3_variant7.asm</FILE><LINE>55</LINE></exit>
+ </LABELS>
+</ASSEMBLER_INFO>
